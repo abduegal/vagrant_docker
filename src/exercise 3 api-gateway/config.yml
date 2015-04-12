@@ -1,0 +1,14 @@
+discovery:
+    serviceName: api-gateway
+    namespace: myapp
+
+consumer: Consumer
+producer: Producer
+
+server:
+  applicationConnectors:
+  - type: http
+    port: 9000
+  adminConnectors:
+  - type: http
+    port: 0

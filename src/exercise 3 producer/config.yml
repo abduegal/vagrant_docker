@@ -1,0 +1,13 @@
+topic: messages_completed
+
+discovery:
+    serviceName: Producer
+    namespace: myapp
+
+server:
+  applicationConnectors:
+  - type: http
+    port: 0
+  adminConnectors:
+  - type: http
+    port: 0

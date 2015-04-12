@@ -1,0 +1,9 @@
+topic: messages_completed
+
+server:
+  applicationConnectors:
+  - type: http
+    port: 9100
+  adminConnectors:
+  - type: http
+    port: 0

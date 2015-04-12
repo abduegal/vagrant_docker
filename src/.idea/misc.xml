@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="0D01A6B1582F7B11ED4594B5D5BB02F6" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/exercise 1 Dropwizard/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 1 Dropwizard completed/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 2 Communication producer completed/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 2 Communication producer/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 2 Communication consumer completed/pom.xml" />
+        <option value="$PROJECT_DIR$/excercise 3 api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 3 service 1/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 3 producer/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 3 consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise 3 api-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
